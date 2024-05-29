@@ -1,0 +1,12 @@
+path: /export/gts_usuarios/assalgado/CV/myVOC4_yolov8/
+
+train: train/images
+val: test/images
+
+nc: 5
+names:
+  0: background
+  1: bottle
+  2: chair
+  3: dining_table
+  4: sofa
